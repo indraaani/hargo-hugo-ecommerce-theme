@@ -2,16 +2,14 @@
 banner:
   enable : true
   title : "Real care for real skin"
-  content : "Your skin can't rely on "
+  content : "Melanin is a science-first skincare range. Every product is made using clinical formulations that have been backed by years of scientific research to make sure that you get the best out of your skin. You will see no Photoshop here. Just real people with real skin."
   image : "images/banner.png"
 
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
+  title : "Choosing your products"
+  content : "While our "
   image : "images/about.png"
 
 
