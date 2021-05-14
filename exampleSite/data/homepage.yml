@@ -66,7 +66,7 @@ testimonial:
     - name : "Bhakti Jangla"
       image : "images/clients/client-2.png" # size 100px*100px
       designation : "she/her"
-      content : "I always struggled with textural irregularities, but the Glow-Up niacinamide serum has done wonders. I saw a difference in just a few months. It's my holy grail for sure."
+      content : "I always struggled with textural irregularities, but the Glow-Up niacinamide serum has done wonders. I saw a difference in just a few months."
       rating : "four" # rating star, one to five
       
     # testimonial item loop
