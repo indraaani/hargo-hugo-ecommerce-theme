@@ -1,15 +1,14 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Real care for
-          real skin"
+  title : "Real care for real skin"
   content : "Melanin is a science-first skincare range. Every product is made using clinical formulations that have been backed by years of scientific research to make sure that you get the best out of your skin. You will see no Photoshop here. Just real people with real skin."
   image : "images/banner.png"
 
 ########################## About ##############################
 about:
   enable : true
-  title : "Choosing your products"
+  title : "Choosing your Melanin products"
   content : "Our core products are essentials you can use everyday, the supplementary products really come down to your individual skin concerns. If you're new to this and don't know where to start, we recommend going back to the basics: a handy cleanser, a go-to moisturiser, and sun-screen."
   image : "images/about.png"
 
@@ -54,7 +53,7 @@ material:
 ########################## Testimonial ########################
 testimonial:
   enable : true
-  title : "What People Are Saying <br> About Our Product"
+  title : "What do real people think about Melanin?"
   testimonialItem:
     # testimonial item loop
     - name : "Angelo Perara"
