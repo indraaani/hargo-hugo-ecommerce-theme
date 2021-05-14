@@ -34,7 +34,7 @@ material:
     # material item loop
     - title : "Hyaluronic Acid"
       image : "images/material/material-1.png"
-      content : "Moisturizes skin, reduces appearance of wrinkles, replenishes cell moisture, speeds wound healing. In general, hyaluronic acid is safe for all skin types, but it is especially helpful for those with dry skin. However, those with rosacea or eczema may want to test patch HA to make sure it doesn't irritate skin."
+      content : "Moisturizes skin, reduces appearance of wrinkles, replenishes cell moisture, speeds wound healing. In general, hyaluronic acid is safe for all skin types. What's not to love?"
       
     # material item loop
     - title : "Niacinamide"
@@ -44,7 +44,7 @@ material:
     # material item loop
     - title : "L-Ascorbic Acid"
       image : "images/material/material-3.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "The most potent and effective form of Vitamin-C. It's great for fading pigmentation, boosts the skin's collagen production, and enhances UV protection when used under sunscreen."
       
     # material item loop
     - title : "AHAs & BHAs"
