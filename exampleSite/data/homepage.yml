@@ -18,7 +18,7 @@ cta:
   enable : true
   title : "Get 10% off when you use the code 'REALSKIN' on Nykaa"
   content : "Available for limited time only. Grab your goodies while you can!"
-  image : "images/cta.pngg"
+  image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
     label : "Shop Melanin"
