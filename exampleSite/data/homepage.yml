@@ -1,7 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Real care for real skin"
+  title : "Real care for
+          real skin"
   content : "Melanin is a science-first skincare range. Every product is made using clinical formulations that have been backed by years of scientific research to make sure that you get the best out of your skin. You will see no Photoshop here. Just real people with real skin."
   image : "images/banner.png"
 
@@ -9,20 +10,20 @@ banner:
 about:
   enable : true
   title : "Choosing your products"
-  content : "While our "
+  content : "Our core products are essentials you can use everyday, the supplementary products really come down to your individual skin concerns. If you're new to this and don't know where to start, we recommend going back to the basics: a handy cleanser, a go-to moisturiser, and sun-screen."
   image : "images/about.png"
 
 
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "Buy one Get One Free Taba Cream"
-  content : "Available for limited time only. Grab one while you still can!"
+  title : "Get 10% off when you use the code 'REALSKIN' on Nykaa"
+  content : "Available for limited time only. Grab your goodies while you can!"
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
-    label : "All Products"
-    link : "products"
+    label : "Shop Melanin"
+    link : "https://www.nykaa.com"
 
 ######################## raw material #######################
 material:
