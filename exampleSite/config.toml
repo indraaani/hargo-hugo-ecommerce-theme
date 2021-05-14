@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://melanin.indrani.me"
 languageCode = "en"
-title = "Hargo | Hugo Ecommerce Site"
+title = "Melanin | Real Care for Real Skin"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
