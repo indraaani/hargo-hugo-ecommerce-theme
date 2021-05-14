@@ -59,7 +59,7 @@ testimonial:
     - name : "Zee Prajapati"
       image : "images/clients/client-1.png" # size 100px*100px
       designation : "they/them"
-      content : "The Sunny Days sunscreen has been a gamechanger! No white-cast, no gross sticky feeling... it's what I've wanted my entire life!"
+      content : "The Sunny Days sunscreen has been a gamechanger! No white-cast, no gross sticky feeling... it's what I've wanted my entire life! It's my holy grail."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
