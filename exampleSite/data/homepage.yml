@@ -28,62 +28,28 @@ cta:
 ######################## raw material #######################
 material:
   enable : true
-  title : "Ingredients Of Our Products"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dol."
+  title : "Science-Backed Skincare"
+  subtitle : "Every Melanin product is made using ingredients that have proven efficacy. Here are some of our favourites!"
   materialItem:
     # material item loop
-    - title : "Matcha Seeds"
+    - title : "Hyaluronic Acid"
       image : "images/material/material-1.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Moisturizes skin, reduces appearance of wrinkles, replenishes cell moisture, speeds wound healing. In general, hyaluronic acid is safe for all skin types, but it is especially helpful for those with dry skin. However, those with rosacea or eczema may want to test patch HA to make sure it doesn't irritate skin."
       
     # material item loop
-    - title : "Aloe Vera"
+    - title : "Niacinamide"
       image : "images/material/material-2.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Brightening, prevents signs of aging, reduces acne. We recommend niacinamide for anyone who wants their skin to be bright or prevent aging."
       
     # material item loop
-    - title : "Turmeric"
+    - title : "L-Ascorbic Acid"
       image : "images/material/material-3.png"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
       
     # material item loop
-    - title : "Tulshi leaf"
+    - title : "AHAs & BHAs"
       image : "images/material/material-4.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
-
-########################### Advantage #########################
-advantage:
-  enable : true
-  title : "Advantages Of Using <br> Our Product"
-  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
-  image : "images/advantage.png"
-  advantageList:
-    # advantage list loop
-    - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
-
-
-######################## Promo Video ##########################
-video:
-  enable : true
-  title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
-  videoThumb : "images/video-thumb.jpg"
-  videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
-
-
-######################## Products #############################
-products:
-  enable : true
-  title : "Products List"
-  # product item comes from "content/products"
-
+      content : "Alpha Hydroxy Acids such as glycolic acid and lactic acid are the perfect surface exfoliants. Beta Hydroxy Acids such as salicylic acid penetrate deeper and exfoliate from within."
 
 ########################## Testimonial ########################
 testimonial:
