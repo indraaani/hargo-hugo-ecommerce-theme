@@ -56,29 +56,29 @@ testimonial:
   title : "What do real people think about Melanin?"
   testimonialItem:
     # testimonial item loop
-    - name : "Angelo Perara"
-      image : "images/clients/client-1.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+    - name : "Zee Prajapati"
+      image : "images/clients/client-1.png" # size 100px*100px
+      designation : "they/them"
+      content : "The Sunny Days sunscreen has been a gamechanger! No white-cast, no gross sticky feeling... it's what I've wanted my entire life!"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventila"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
-      rating : "three" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "john Doe"
-      image : "images/clients/client-3.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
-      rating : "five" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "Riya Ventila"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+    - name : "Bhakti Jangla"
+      image : "images/clients/client-2.png" # size 100px*100px
+      designation : "she/her"
+      content : "I always struggled with textural irregularities, but the Glow-Up niacinamide serum has done wonders. I saw a difference in just a few months. It's my holy grail for sure."
       rating : "four" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Prakrit Menon"
+      image : "images/clients/client-3.png" # size 100px*100px
+      designation : "he/him"
+      content : "I really appreciate the no-bullsh*t approach to skincare. As a guy I'm always avoiding 'macho marketing.' Melanin has been a breath of fresh air."
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Sunita Vardhan"
+      image : "images/clients/client-4.png" # size 100px*100px
+      designation : "she/her"
+      content : "Hydration City has to be the best moisturiser I've tried. And I've tried a LOT of them. I think I'm on my fifth bottle now... seriously, love that stuff!"
+      rating : "five" # rating star, one to five
